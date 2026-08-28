@@ -29,7 +29,9 @@ Optional material to go deeper or review at your own pace.
 No — everything here is a downloadable PDF.
 
 **I think I'm in the wrong group. What do I do?**
-Email Ali (Basic) or Sara (Advanced); we're happy to move you.
+Email your instructor — Ali Shiravand ([ali.shiravand@ens.fr](mailto:ali.shiravand@ens.fr))
+for the Basic track, or Sara Moussaoui ([sara.moussaoui@ens.psl.eu](mailto:sara.moussaoui@ens.psl.eu))
+for the Advanced track. We're happy to move you.
 
 **When are solutions posted?**
 After each session, on that session's page.

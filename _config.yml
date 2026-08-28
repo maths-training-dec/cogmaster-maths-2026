@@ -19,10 +19,11 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 
-# ENS logo shown at the top-left of the sidebar on every page
-logo: "/assets/img/logo_ens_psl_petit_rvb_noir.png"
+# Département d'Études Cognitives logo, shown at the top-left of every page
+# (its size is enlarged in _sass/custom/custom.scss)
+logo: "/assets/img/logo-dec.png"
 
-footer_content: "Maths Training Crash Course 2026 · École Normale Supérieure · maintained by Ali & Sara"
+footer_content: "Maths Training Crash Course 2026 · Département d'Études Cognitives, ENS-PSL · Ali Shiravand &amp; Sara Moussaoui · supervised by Prof. Amaury Lambert"
 
 # GitHub Pages–approved plugins
 plugins:

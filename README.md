@@ -1,7 +1,9 @@
 # Maths Training Crash Course 2026 — course website
 
 Source for the course website (GitHub Pages + the *just-the-docs* theme). This
-README is for the maintainers (Ali & Sara); it is **not** shown on the website.
+README is for the maintainers — Ali Shiravand (ali.shiravand@ens.fr) and Sara
+Moussaoui (sara.moussaoui@ens.psl.eu), under the supervision of Prof. Amaury Lambert
+(amaury.lambert@ens.psl.eu). It is **not** shown on the website.
 
 ## Publishing it (one-time setup, ~5 minutes, no command line needed)
 

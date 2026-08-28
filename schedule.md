@@ -6,21 +6,13 @@ nav_order: 2
 
 # Schedule & practical info
 
-The crash course runs over **five 3-hour sessions**. Details below — we'll fill in
-the exact dates, times, and rooms before the course starts.
+The crash course runs over **five 3-hour sessions** for each track. Both tracks
+cover the same topics; the Advanced track moves faster and goes into more depth.
 
-## Sessions
+![Course schedule — Basic and Advanced groups, sessions from Sep 3 to Sep 10]({{ '/assets/img/schedule_maths_training.png' | relative_url }})
 
-| # | Topic | Date | Time | Room |
-|---|-------|------|------|------|
-| 1 | Probability I | *TBA* | *TBA* | *TBA* |
-| 2 | Statistics & Inference | *TBA* | *TBA* | *TBA* |
-| 3 | Linear Algebra I | *TBA* | *TBA* | *TBA* |
-| 4 | Linear Algebra II | *TBA* | *TBA* | *TBA* |
-| 5 | Advanced Probability & Statistics | *TBA* | *TBA* | *TBA* |
-
-Both tracks follow the same five topics; the Advanced track moves faster and goes
-into more depth.
+Rooms are at **46 rue d'Ulm** (Basic group, Room 306) and the **Salle Séminaire,
+29 rue d'Ulm (DEC)** (Advanced group).
 
 ## What to bring
 
