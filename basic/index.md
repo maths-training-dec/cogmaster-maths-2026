@@ -15,10 +15,10 @@ Each session below has its own slides, exercise sheet, and solutions.
 
 ## Sessions
 
-1. [Probability I]({% link basic/session-1.md %})
-2. [Statistics & Inference]({% link basic/session-2.md %})
-3. [Linear Algebra I]({% link basic/session-3.md %})
-4. [Linear Algebra II]({% link basic/session-4.md %})
-5. [Advanced Probability & Statistics]({% link basic/session-5.md %})
+1. [Probability I]({{ '/basic/session-1/' | relative_url }})
+2. [Statistics & Inference]({{ '/basic/session-2/' | relative_url }})
+3. [Linear Algebra I]({{ '/basic/session-3/' | relative_url }})
+4. [Linear Algebra II]({{ '/basic/session-4/' | relative_url }})
+5. [Advanced Probability & Statistics]({{ '/basic/session-5/' | relative_url }})
 
 Use the sidebar to jump to any session.

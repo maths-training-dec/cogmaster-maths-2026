@@ -17,8 +17,8 @@ background. Taught by **Sara**.
 
 ## Sessions
 
-1. [Probability & Statistics (recap)]({% link advanced/session-1.md %})
-2. [Statistical Inference]({% link advanced/session-2.md %})
-3. [Linear Algebra]({% link advanced/session-3.md %})
-4. [Eigenvalues, PCA & Dynamical Systems]({% link advanced/session-4.md %})
-5. [Advanced Topics]({% link advanced/session-5.md %})
+1. [Probability & Statistics (recap)]({{ '/advanced/session-1/' | relative_url }})
+2. [Statistical Inference]({{ '/advanced/session-2/' | relative_url }})
+3. [Linear Algebra]({{ '/advanced/session-3/' | relative_url }})
+4. [Eigenvalues, PCA & Dynamical Systems]({{ '/advanced/session-4/' | relative_url }})
+5. [Advanced Topics]({{ '/advanced/session-5/' | relative_url }})
