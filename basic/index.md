@@ -11,13 +11,7 @@ The Basic track builds the mathematics you'll need from the ground up — no pri
 background assumed. It's taught intuitively, with lots of examples linked to
 cognitive science and modelling. Taught by **Ali**.
 
-## Core references (all sessions)
-
-These two documents cover the whole track. Each individual session page below adds
-its own exercise sheet and solutions.
-
-- 📘 [**Lecture notes** — full booklet (all 5 sessions)]({{ '/assets/basic/notes/crash-course-notes.pdf' | relative_url }})
-- 📊 [**Slides** — full deck (all 5 sessions)]({{ '/assets/basic/slides/crash-course-slides.pdf' | relative_url }})
+Each session below has its own slides, exercise sheet, and solutions.
 
 ## Sessions
 

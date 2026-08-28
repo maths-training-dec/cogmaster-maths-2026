@@ -19,7 +19,6 @@ Vectors, matrices, and the geometry of data in many dimensions.
 
 ## Materials
 
-- 📘 [Lecture notes (full booklet)]({{ '/assets/basic/notes/crash-course-notes.pdf' | relative_url }})
-- 📊 [Slides (full deck)]({{ '/assets/basic/slides/crash-course-slides.pdf' | relative_url }})
-- ✏️ [Exercise sheet]({{ '/assets/basic/exercises/session-3-exercises.pdf' | relative_url }})
-- ✅ [Solutions]({{ '/assets/basic/solutions/session-3-solutions.pdf' | relative_url }}) *(released after the session)*
+- 📊 [Slides]({{ '/assets/basic/slides/S3_Slides_Maths_training_Basic_DEC_2026.pdf' | relative_url }})
+- ✏️ [Exercise sheet]({{ '/assets/basic/exercises/Q_Ex3_Maths_training_DEC_2026.pdf' | relative_url }})
+- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex3_Maths_training_DEC_2026.pdf' | relative_url }}) *(released after the session)*

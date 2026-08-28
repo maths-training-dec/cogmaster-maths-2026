@@ -21,7 +21,6 @@ in cognitive modelling and machine learning.
 
 ## Materials
 
-- 📘 [Lecture notes (full booklet)]({{ '/assets/basic/notes/crash-course-notes.pdf' | relative_url }})
-- 📊 [Slides (full deck)]({{ '/assets/basic/slides/crash-course-slides.pdf' | relative_url }})
-- ✏️ [Exercise sheet]({{ '/assets/basic/exercises/session-5-exercises.pdf' | relative_url }})
-- ✅ [Solutions]({{ '/assets/basic/solutions/session-5-solutions.pdf' | relative_url }}) *(released after the session)*
+- 📊 [Slides]({{ '/assets/basic/slides/S5_Slides_Maths_training_Basic_DEC_2026.pdf' | relative_url }})
+- ✏️ [Exercise sheet]({{ '/assets/basic/exercises/Q_Ex5_Maths_training_DEC_2026.pdf' | relative_url }})
+- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex5_Maths_training_DEC_2026.pdf' | relative_url }}) *(released after the session)*

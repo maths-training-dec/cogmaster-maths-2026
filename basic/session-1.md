@@ -19,7 +19,6 @@ The language of uncertainty: how to describe chance and update beliefs from evid
 
 ## Materials
 
-- 📘 [Lecture notes (full booklet)]({{ '/assets/basic/notes/crash-course-notes.pdf' | relative_url }})
-- 📊 [Slides (full deck)]({{ '/assets/basic/slides/crash-course-slides.pdf' | relative_url }})
-- ✏️ [Exercise sheet]({{ '/assets/basic/exercises/session-1-exercises.pdf' | relative_url }})
-- ✅ [Solutions]({{ '/assets/basic/solutions/session-1-solutions.pdf' | relative_url }}) *(released after the session)*
+- 📊 [Slides]({{ '/assets/basic/slides/S1_Slides_Maths_training_Basic_DEC_2026.pdf' | relative_url }})
+- ✏️ [Exercise sheet]({{ '/assets/basic/exercises/Q_Ex1_Maths_training_DEC_2026.pdf' | relative_url }})
+- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex1_Maths_training_DEC_2026.pdf' | relative_url }}) *(released after the session)*

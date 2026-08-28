@@ -29,7 +29,5 @@ into more depth.
 
 ## Group placement
 
-Groups are assigned from the short
-[placement questionnaire](https://forms.gle/EVgsYC1k9TL1rZ4QA){:target="_blank"}.
-There is no score and nothing to revise — it simply helps us place you at the right
-level. We'll confirm your group by email.
+You'll be assigned to the Basic or Advanced track before the course begins, so that
+each session is pitched at the right level. We'll confirm your group by email.

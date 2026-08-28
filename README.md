@@ -31,15 +31,21 @@ README is for the maintainers (Ali & Sara); it is **not** shown on the website.
 ## Structure
 
 ```
-_config.yml            site settings + theme + placement-form button
+_config.yml            site settings + theme + ENS logo
 index.md               Home
 schedule.md            Schedule & practical info
 resources.md           Extra resources / FAQ
 basic/                 Basic track (Ali) — overview + 5 session pages
 advanced/              Advanced track (Sara) — overview + 5 placeholder pages
-assets/basic/          notes, slides, exercises, solutions (PDFs)
-assets/advanced/       (Sara's PDFs go here)
+assets/basic/          slides, exercises, solutions (PDFs)
+assets/advanced/       (Sara's PDFs go here; naming templates are in each page)
+assets/img/            ENS logo
 ```
+
+File-naming convention used on the site:
+- Slides: `S<n>_Slides_Maths_training_Basic_DEC_2026.pdf` (Advanced: `..._Advanced_...`)
+- Exercises: `Q_Ex<n>_Maths_training_DEC_2026.pdf`
+- Solutions: `Sol_Ex<n>_Maths_training_DEC_2026.pdf`
 
 ## Optional: preview locally before publishing
 

@@ -18,11 +18,10 @@ nav_order: 3
 *Materials will appear here once uploaded.*
 
 <!--
-  To add materials: upload the PDFs to  assets/advanced/  then replace the line
-  above with links, e.g.:
+  To add materials: upload the PDFs to  assets/advanced/  using these names, then
+  replace the line above with the links below (remove the surrounding comment):
 
-  - 📘 [Lecture notes]({{ '/assets/advanced/session-3-notes.pdf' | relative_url }})
-  - 📊 [Slides]({{ '/assets/advanced/session-3-slides.pdf' | relative_url }})
-  - ✏️ [Exercise sheet]({{ '/assets/advanced/session-3-exercises.pdf' | relative_url }})
-  - ✅ [Solutions]({{ '/assets/advanced/session-3-solutions.pdf' | relative_url }})
+  - 📊 [Slides]({{ '/assets/advanced/S3_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
+  - ✏️ [Exercise sheet]({{ '/assets/advanced/Q_Ex3_Maths_training_DEC_2026.pdf' | relative_url }})
+  - ✅ [Solutions]({{ '/assets/advanced/Sol_Ex3_Maths_training_DEC_2026.pdf' | relative_url }})
 -->
