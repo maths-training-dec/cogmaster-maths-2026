@@ -25,9 +25,9 @@ we'll keep it updated throughout the course.
 
 The course runs in two parallel tracks so that everyone works at a comfortable level:
 
-- [**Basic track**]({{ '/basic/' | relative_url }}) — builds the foundations from
+- [**Basic track**]({% link basic/index.md %}) — builds the foundations from
   scratch, assuming no prior mathematics. Taught by **Ali Shiravand**.
-- [**Advanced track**]({{ '/advanced/' | relative_url }}) — a faster recap for
+- [**Advanced track**]({% link advanced/index.md %}) — a faster recap for
   students with a mathematics background. Taught by **Sara Moussaoui**.
 
 You'll be assigned to a track before the course begins, and we'll confirm your group
@@ -38,14 +38,14 @@ by email.
 Use the sidebar (or the search box at the top) to navigate. Each session page lists
 the topics covered and the materials to download — slides, the exercise sheet, and
 the solutions (posted after each session). See the
-[schedule]({{ '/schedule/' | relative_url }}) for dates, times, and rooms.
+[schedule]({% link schedule.md %}) for dates, times, and rooms.
 
 ## Quick links
 
-- 📗 [Basic track — all sessions]({{ '/basic/' | relative_url }})
-- 📘 [Advanced track — all sessions]({{ '/advanced/' | relative_url }})
-- 🗓️ [Schedule & practical info]({{ '/schedule/' | relative_url }})
-- 🔗 [Extra resources]({{ '/resources/' | relative_url }})
+- 📗 [Basic track — all sessions]({% link basic/index.md %})
+- 📘 [Advanced track — all sessions]({% link advanced/index.md %})
+- 🗓️ [Schedule & practical info]({% link schedule.md %})
+- 🔗 [Extra resources]({% link resources.md %})
 
 ## Teaching team
 
