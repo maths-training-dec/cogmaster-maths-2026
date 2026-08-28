@@ -14,6 +14,10 @@ remote_theme: just-the-docs/just-the-docs
 baseurl: "/cogmaster-maths-2026"
 url: ""
 
+# Pretty URLs: pages are served as /basic/session-1/ (no ".html"), which matches
+# the links used throughout the site. Without this, links 404.
+permalink: pretty
+
 # --- Appearance & features ---
 color_scheme: light
 search_enabled: true
