@@ -1,0 +1,41 @@
+# =====================================================================
+#  Site configuration -- Maths Training Crash Course 2026
+#  Theme: just-the-docs (built automatically by GitHub Pages)
+# =====================================================================
+title: "Maths Training Crash Course 2026"
+description: "Preparatory mathematics for the Master of Cognitive Science — École Normale Supérieure"
+
+# --- Theme (GitHub Pages builds this for you; no local setup needed) ---
+remote_theme: just-the-docs/just-the-docs
+
+# --- IMPORTANT: set this to "/<your-repo-name>" for a project site ---
+#     e.g. if the repo is  cogmaster-maths-2026  ->  baseurl: "/cogmaster-maths-2026"
+#     Leave it as "" only if you use a user/organisation site (<user>.github.io).
+baseurl: "/cogmaster-maths-2026"
+url: ""
+
+# Pretty URLs: pages are served as /basic/session-1/ (no ".html"), which matches
+# the links used throughout the site. Without this, links 404.
+permalink: pretty
+
+# --- Appearance & features ---
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Département d'Études Cognitives logo, shown at the top-left of every page
+# (its size is enlarged in _sass/custom/custom.scss)
+logo: "/assets/img/logo-dec.png"
+
+footer_content: "Maths Training Crash Course 2026 · Département d'Études Cognitives, ENS-PSL · Ali Shiravand &amp; Sara Moussaoui · supervised by Prof. Amaury Lambert"
+
+# GitHub Pages–approved plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Don't process these when building
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
