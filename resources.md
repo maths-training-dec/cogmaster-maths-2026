@@ -10,8 +10,6 @@ Optional material to go deeper or review at your own pace.
 
 ## Refreshers and references
 
-- **Khan Academy** — free, friendly refreshers on probability, statistics, and
-  linear algebra: [khanacademy.org](https://www.khanacademy.org){:target="_blank"}
 - **3Blue1Brown — Essence of Linear Algebra** — superb visual intuition for vectors,
   matrices, and eigenvectors:
   [video series](https://www.3blue1brown.com/topics/linear-algebra){:target="_blank"}
