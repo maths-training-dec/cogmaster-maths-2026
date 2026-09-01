@@ -10,18 +10,11 @@ Optional material to go deeper or review at your own pace.
 
 ## Refreshers and references
 
-- **Khan Academy** — free, friendly refreshers on probability, statistics, and
-  linear algebra: [khanacademy.org](https://www.khanacademy.org){:target="_blank"}
 - **3Blue1Brown — Essence of Linear Algebra** — superb visual intuition for vectors,
   matrices, and eigenvectors:
   [video series](https://www.3blue1brown.com/topics/linear-algebra){:target="_blank"}
 - **Seeing Theory** — interactive visual introduction to probability and statistics:
   [seeing-theory.brown.edu](https://seeing-theory.brown.edu){:target="_blank"}
-
-## For cognitive science context
-
-- Reading connections between the maths and cognitive modelling / computational
-  neuroscience will be pointed out in each session's notes.
 
 ## FAQ
 
