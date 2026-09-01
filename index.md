@@ -26,9 +26,9 @@ we'll keep it updated throughout the course.
 The course runs in two parallel tracks so that everyone works at a comfortable level:
 
 - [**Basic track**]({{ '/basic/' | relative_url }}) — builds the foundations from
-  scratch, assuming no prior mathematics. Taught by **Ali Shiravand**.
+  scratch, assuming no prior mathematics.
 - [**Advanced track**]({{ '/advanced/' | relative_url }}) — a faster recap for
-  students with a mathematics background. Taught by **Sara Moussaoui**.
+  students with a mathematics background.
 
 You'll be assigned to a track before the course begins, and we'll confirm your group
 by email.
@@ -51,10 +51,10 @@ the solutions (posted after each session). See the
 
 | | | |
 |---|---|---|
-| **Ali Shiravand** | Instructor — Basic track | [ali.shiravand@ens.fr](mailto:ali.shiravand@ens.fr) |
-| **Sara Moussaoui** | Instructor — Advanced track | [sara.moussaoui@ens.psl.eu](mailto:sara.moussaoui@ens.psl.eu) |
+| **Ali Shiravand** | Instructor | [ali.shiravand@ens.fr](mailto:ali.shiravand@ens.fr) |
+| **Sara Moussaoui** | Instructor | [sara.moussaoui@ens.psl.eu](mailto:sara.moussaoui@ens.psl.eu) |
 | **Prof. Amaury Lambert** | Course supervisor | [amaury.lambert@ens.psl.eu](mailto:amaury.lambert@ens.psl.eu) |
 
 ---
 
-*Questions? Contact your instructor by email — Ali (Basic track) or Sara (Advanced track).*
+*Questions? Contact your instructor by email — Ali or Sara.*
