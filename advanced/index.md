@@ -8,7 +8,7 @@ has_children: true
 # Advanced track
 
 The Advanced track is a faster recap for students who already have a mathematics
-background. Taught by **Sara**.
+background.
 
 > **Note for the instructor (Sara):** the pages below are placeholders. To add
 > materials, upload your PDFs to `assets/advanced/` and edit each session page to
