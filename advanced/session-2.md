@@ -64,13 +64,5 @@ reading a matrix by its columns.
 
 ## Materials
 
-*Materials will appear here once uploaded.*
-
-<!--
-  To add materials: upload the PDFs to  assets/advanced/  using these names, then
-  replace the line above with the links below (remove the surrounding comment):
-
-  - 📊 [Slides]({{ '/assets/advanced/S2_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
-  - ✏️ [Exercise sheet]({{ '/assets/advanced/Q_Ex2_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
-  - ✅ [Solutions]({{ '/assets/advanced/Sol_Ex2_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
--->
+- 📊 [Slides]({{ '/assets/advanced/slides/S2_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
+- ✏️ [Exercise sheet]({{ '/assets/advanced/exercises/Q_Ex2_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})

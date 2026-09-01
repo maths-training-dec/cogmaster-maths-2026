@@ -52,13 +52,5 @@ the same equation, run in two directions.
 
 ## Materials
 
-*Materials will appear here once uploaded.*
-
-<!--
-  To add materials: upload the PDFs to  assets/advanced/  using these names, then
-  replace the line above with the links below (remove the surrounding comment):
-
-  - 📊 [Slides]({{ '/assets/advanced/S3_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
-  - ✏️ [Exercise sheet]({{ '/assets/advanced/Q_Ex3_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
-  - ✅ [Solutions]({{ '/assets/advanced/Sol_Ex3_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
--->
+- 📊 [Slides]({{ '/assets/advanced/slides/S3_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
+- ✏️ [Exercise sheet]({{ '/assets/advanced/exercises/Q_Ex3_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})

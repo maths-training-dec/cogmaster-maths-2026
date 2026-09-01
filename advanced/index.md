@@ -18,13 +18,7 @@ Two blocks, two sessions each: **linear algebra** (Sessions 1–2) and **analysi
 Nothing from neuroscience is assumed: applications are two-sentence asides, never
 prerequisites.
 
-Session 5 is the **basic track** session, listed here so everything sits in one
-place. It covers the whole analysis block in one sitting and assumes nothing
-beyond arithmetic.
-
-> **Note for the instructor (Sara):** To add
-> materials, upload your PDFs to `assets/advanced/` and edit each session page to
-> link them (see any Basic-track session page for the link format).
+Session 5 is the **probability and statistics** session, taught by Ali Shiravand.
 
 ## Sessions
 
@@ -39,8 +33,9 @@ beyond arithmetic.
 4. [**Analysis II**]({{ '/advanced/session-4/' | relative_url }}) — functions of
    several variables and the gradient, vector-valued functions and the Jacobian,
    systems of differential equations. *~120 min.*
-5. [**Analysis (basic)**]({{ '/advanced/session-5/' | relative_url }}) — the whole
-   analysis block in one session, basic track. *~110 min.*
+5. [**Advanced Probability & Statistics**]({{ '/advanced/session-5/' | relative_url }}) —
+   Bayesian inference, the multivariate Gaussian, maximum likelihood, the GLM, model
+   comparison, and information theory. Taught by Ali Shiravand.
 
 ## How the sessions fit together
 
