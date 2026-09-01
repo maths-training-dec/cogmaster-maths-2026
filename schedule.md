@@ -11,8 +11,8 @@ cover the same topics; the Advanced track moves faster and goes into more depth.
 
 ![Course schedule — Basic and Advanced groups, sessions from Sep 3 to Sep 10]({{ '/assets/img/schedule_maths_training.png' | relative_url }})
 
-Rooms are at **46 rue d'Ulm** (Basic group, Room 306) and the **Salle Séminaire,
-29 rue d'Ulm (DEC)** (Advanced group).
+Rooms are at **46 rue d'Ulm** (Room 305, 306) and the **Salle Assia Djebar,
+29 rue d'Ulm (DEC - Ground Floor)** (Advanced group).
 
 ## What to bring
 
