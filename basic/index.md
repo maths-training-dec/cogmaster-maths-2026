@@ -9,7 +9,7 @@ has_children: true
 
 The Basic track builds the mathematics you'll need from the ground up — no prior
 background assumed. It's taught intuitively, with lots of examples linked to
-cognitive science and modelling. Taught by **Ali**.
+cognitive science and modelling.
 
 Each session below has its own slides, exercise sheet, and solutions.
 
