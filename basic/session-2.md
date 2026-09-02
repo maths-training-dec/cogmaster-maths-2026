@@ -12,10 +12,10 @@ From single random quantities to data: summarising it and drawing conclusions.
 ## Topics covered
 
 - Mean, variance, standard deviation; covariance and correlation
-- The Law of Large Numbers and the **Central Limit Theorem**
-- Estimation, the standard error, and the √n law
+- The law of large numbers and the central limit theorem
+- Estimation and the standard error
 - Confidence intervals
-- Hypothesis testing (p-values, Type I/II errors, effect size)
+- Hypothesis testing (p-values, Type I and II errors, effect size)
 - Linear regression by least squares
 
 ## Materials

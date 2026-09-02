@@ -7,16 +7,15 @@ nav_order: 4
 
 # Session 4 — Linear Algebra II
 
-Eigenvectors, dimensionality reduction, and dynamics — where the two halves of the
-course meet.
+Eigenvectors, dimensionality reduction, and dynamics.
 
 ## Topics covered
 
 - Eigenvalues and eigenvectors; the characteristic equation
-- Symmetric matrices and the spectral picture
-- **Principal Component Analysis** (PCA) via the covariance matrix
-- The SVD as the general engine behind PCA
-- Linear dynamical systems and stability (neural population dynamics)
+- Symmetric matrices and orthogonal eigenvectors
+- Principal Component Analysis (PCA) via the covariance matrix
+- The singular value decomposition (SVD)
+- Linear dynamical systems and stability
 
 ## Materials
 

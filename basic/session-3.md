@@ -13,9 +13,9 @@ Vectors, matrices, and the geometry of data in many dimensions.
 
 - Vectors as points, arrows, and lists of features; linear combinations
 - The dot product: similarity, length, angle, and projection
-- Matrices as data tables **and** as transformations of space
-- Matrix multiplication; systems of linear equations
-- The inverse, the determinant, and rank (the true dimensionality of data)
+- Matrices as data tables and as transformations of space
+- Matrix multiplication and systems of linear equations
+- The inverse, the determinant, and rank
 
 ## Materials
 

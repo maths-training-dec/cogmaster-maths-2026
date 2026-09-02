@@ -7,19 +7,18 @@ nav_order: 5
 
 # Session 5 — Advanced Probability & Statistics
 
-Taught by **Ali Shiravand**.
-
-The modeller's toolkit: fusing probability and linear algebra into the methods used
-in cognitive modelling and machine learning.
+A brisk refresher of undergraduate probability and statistics, with a glimpse of how
+they feed into modelling.
 
 ## Topics covered
 
-- Bayesian inference (prior, likelihood, posterior; sequential updating)
-- The multivariate Gaussian and the covariance matrix (its link to PCA)
-- Maximum likelihood estimation
-- The Generalized Linear Model (logistic regression, psychometric functions)
-- Model comparison, overfitting, and cross-validation
-- A first taste of information theory and Markov chains
+- Random variables and the core distributions
+- Expectation, variance, and their rules
+- The Normal distribution, the law of large numbers, and the central limit theorem
+- Estimation, the standard error, and confidence intervals
+- Hypothesis testing (p-values, Type I and II errors, power)
+- Bayes' theorem and the base-rate effect
+- A glimpse of modelling: the pipeline, and MLE versus MAP
 
 ## Materials
 

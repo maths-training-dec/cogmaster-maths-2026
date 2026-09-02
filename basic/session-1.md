@@ -13,8 +13,8 @@ The language of uncertainty: how to describe chance and update beliefs from evid
 
 - Sample spaces, events, and the basic rules of probability
 - Conditional probability and independence
-- **Bayes' theorem** — updating beliefs from evidence (and the base-rate fallacy)
-- Random variables (PMF, PDF, CDF)
+- Bayes' theorem and the base-rate fallacy
+- Random variables (pmf, pdf, cdf)
 - Key distributions: Bernoulli, Binomial, Poisson, and the Gaussian
 
 ## Materials
