@@ -1,11 +1,11 @@
 ---
-title: "Session 5 — Differential Equations"
+title: "Session 5 - Differential Equations"
 layout: default
 parent: Basic track
 nav_order: 5
 ---
 
-# Session 5 — Differential Equations
+# Session 5 - Differential Equations
 
 The analysis block in one sitting: functions, derivatives, integrals, and the one
 differential equation that models learning and forgetting.

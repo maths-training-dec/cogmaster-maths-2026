@@ -1,11 +1,11 @@
 ---
-title: "Session 3 — Linear Algebra I"
+title: "Session 3 - Linear Algebra I"
 layout: default
 parent: Basic track
 nav_order: 3
 ---
 
-# Session 3 — Linear Algebra I
+# Session 3 - Linear Algebra I
 
 Vectors, matrices, and the geometry of data in many dimensions.
 

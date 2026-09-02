@@ -1,11 +1,11 @@
 ---
-title: "Session 2 — Statistics & Inference"
+title: "Session 2 - Statistics & Inference"
 layout: default
 parent: Basic track
 nav_order: 2
 ---
 
-# Session 2 — Statistics & Inference
+# Session 2 - Statistics & Inference
 
 From single random quantities to data: summarising it and drawing conclusions.
 

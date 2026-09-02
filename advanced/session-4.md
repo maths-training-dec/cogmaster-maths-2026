@@ -1,11 +1,11 @@
 ---
-title: "Session 4 — Analysis II"
+title: "Session 4 - Analysis II"
 layout: default
 parent: Advanced track
 nav_order: 4
 ---
 
-# Session 4 — Analysis II
+# Session 4 - Analysis II
 
 Adding dimensions: several inputs, several outputs, and several equations at once,
 where the linear algebra pays off a second time.

@@ -1,11 +1,11 @@
 ---
-title: "Session 3 — Analysis I"
+title: "Session 3 - Analysis I"
 layout: default
 parent: Advanced track
 nav_order: 3
 ---
 
-# Session 3 — Analysis I
+# Session 3 - Analysis I
 
 Functions, derivatives, and integrals as usable tools, ending on the one
 differential equation everything later rests on.

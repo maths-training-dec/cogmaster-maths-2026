@@ -1,11 +1,11 @@
 ---
-title: "Session 1 — Linear Algebra I"
+title: "Session 1 - Linear Algebra I"
 layout: default
 parent: Advanced track
 nav_order: 1
 ---
 
-# Session 1 — Linear Algebra I
+# Session 1 - Linear Algebra I
 
 Everything in linear algebra built from two operations, adding and scaling vectors,
 up to the matrix as a transformation of space.

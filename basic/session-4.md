@@ -1,11 +1,11 @@
 ---
-title: "Session 4 — Linear Algebra II"
+title: "Session 4 - Linear Algebra II"
 layout: default
 parent: Basic track
 nav_order: 4
 ---
 
-# Session 4 — Linear Algebra II
+# Session 4 - Linear Algebra II
 
 Eigenvectors, dimensionality reduction, and dynamics.
 

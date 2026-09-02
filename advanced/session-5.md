@@ -1,11 +1,11 @@
 ---
-title: "Session 5 — Advanced Probability & Statistics"
+title: "Session 5 - Advanced Probability & Statistics"
 layout: default
 parent: Advanced track
 nav_order: 5
 ---
 
-# Session 5 — Advanced Probability & Statistics
+# Session 5 - Advanced Probability & Statistics
 
 A brisk refresher of undergraduate probability and statistics, with a glimpse of how
 they feed into modelling.

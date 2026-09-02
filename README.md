@@ -1,7 +1,7 @@
-# Maths Training Crash Course 2026 — course website
+# Maths Training Crash Course 2026 - course website
 
 Source for the course website (GitHub Pages + the *just-the-docs* theme). This
-README is for the maintainers — Ali Shiravand (ali.shiravand@ens.fr) and Sara
+README is for the maintainers: Ali Shiravand (ali.shiravand@ens.fr) and Sara
 Moussaoui (sara.moussaoui@ens.psl.eu), under the supervision of Prof. Amaury Lambert
 (amaury.lambert@ens.psl.eu). It is **not** shown on the website.
 
@@ -21,7 +21,7 @@ Moussaoui (sara.moussaoui@ens.psl.eu), under the supervision of Prof. Amaury Lam
 ## Everyday updates (also possible entirely in the browser)
 
 - **Release a session's solutions:** the solution PDFs are already in
-  `assets/basic/solutions/`. Nothing to do — or, if you prefer to hold them back,
+  `assets/basic/solutions/`. Nothing to do; or, if you prefer to hold them back,
   delete the "Solutions" link from a session page until you're ready.
 - **Add the Advanced-track materials:** upload Sara's PDFs into `assets/advanced/`
   and edit each `advanced/session-N.md` page (there's a commented-out template with
@@ -37,8 +37,8 @@ _config.yml            site settings + theme + ENS logo
 index.md               Home
 schedule.md            Schedule & practical info
 resources.md           Extra resources / FAQ
-basic/                 Basic track (Ali) — overview + 5 session pages
-advanced/              Advanced track (Sara) — overview + 5 placeholder pages
+basic/                 Basic track (Ali): overview + 5 session pages
+advanced/              Advanced track (Sara): overview + 5 placeholder pages
 assets/basic/          slides, exercises, solutions (PDFs)
 assets/advanced/       (Sara's PDFs go here; naming templates are in each page)
 assets/img/            ENS logo
@@ -51,7 +51,7 @@ File-naming convention used on the site:
 
 ## Optional: preview locally before publishing
 
-Not required — GitHub builds the site for you. If you *want* a local preview and have
+Not required; GitHub builds the site for you. If you *want* a local preview and have
 Ruby installed:
 
 ```
@@ -64,5 +64,5 @@ bundle exec jekyll serve
 
 - GitHub Pages sites are **public**. If you need to restrict access to enrolled
   students, consider hosting on the ENS intranet instead, or keep the URL unlisted.
-- Everything is plain Markdown + PDFs — no databases, no maintenance beyond editing
-  text files.
+- Everything is plain Markdown + PDFs, with no databases and no maintenance beyond
+  editing text files.

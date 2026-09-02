@@ -1,11 +1,11 @@
 ---
-title: "Session 1 — Probability I"
+title: "Session 1 - Probability I"
 layout: default
 parent: Basic track
 nav_order: 1
 ---
 
-# Session 1 — Probability I
+# Session 1 - Probability I
 
 The language of uncertainty: how to describe chance and update beliefs from evidence.
 

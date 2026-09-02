@@ -1,11 +1,11 @@
 ---
-title: "Session 2 — Linear Algebra II"
+title: "Session 2 - Linear Algebra II"
 layout: default
 parent: Advanced track
 nav_order: 2
 ---
 
-# Session 2 — Linear Algebra II
+# Session 2 - Linear Algebra II
 
 Rank, eigenvectors, PCA, and the SVD: how many dimensions a data table really has,
 and what varies together.
