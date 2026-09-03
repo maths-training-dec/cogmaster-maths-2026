@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <div class="brand-banner" markdown="0">
-  <img src="{{ '/assets/img/logo_ens_psl_petit_rvb_noir.png' | relative_url }}" alt="École Normale Supérieure - PSL" style="height:80px;">
+  <img src="{{ '/assets/img/logo_ens_psl_petit_rvb_noir.png' | relative_url }}" alt="École Normale Supérieure - PSL" style="height:200px;">
 </div>
 
 # Maths Training Crash Course 2026
