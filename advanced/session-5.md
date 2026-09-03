@@ -24,4 +24,4 @@ they feed into modelling.
 
 - 📊 [Slides]({{ '/assets/advanced/slides/S5_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/advanced/exercises/Q_Ex5_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
-- ✅ [Solutions]({{ '/assets/advanced/solutions/Sol_Ex5_Maths_training_Advanced_DEC_2026.pdf' | relative_url }}) *(released after the session)*
+- ✅ [Solutions]({{ '/assets/advanced/solutions/Sol_Ex5_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})

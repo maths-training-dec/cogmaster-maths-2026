@@ -21,4 +21,4 @@ Eigenvectors, dimensionality reduction, and dynamics.
 
 - 📊 [Slides]({{ '/assets/basic/slides/S4_Slides_Maths_training_Basic_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/basic/exercises/Q_Ex4_Maths_training_DEC_2026.pdf' | relative_url }})
-- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex4_Maths_training_DEC_2026.pdf' | relative_url }}) *(released after the session)*
+- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex4_Maths_training_DEC_2026.pdf' | relative_url }})

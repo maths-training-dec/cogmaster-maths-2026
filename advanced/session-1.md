@@ -23,3 +23,4 @@ up to the matrix as a transformation of space.
 
 - 📊 [Slides]({{ '/assets/advanced/slides/S1_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/advanced/exercises/Q_Ex1_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
+- ✅ [Solutions]({{ '/assets/advanced/solutions/Sol_Ex1_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})

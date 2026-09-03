@@ -22,4 +22,4 @@ From single random quantities to data: summarising it and drawing conclusions.
 
 - 📊 [Slides]({{ '/assets/basic/slides/S2_Slides_Maths_training_Basic_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/basic/exercises/Q_Ex2_Maths_training_DEC_2026.pdf' | relative_url }})
-- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex2_Maths_training_DEC_2026.pdf' | relative_url }}) *(released after the session)*
+- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex2_Maths_training_DEC_2026.pdf' | relative_url }})

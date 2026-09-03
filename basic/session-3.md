@@ -21,4 +21,4 @@ Vectors, matrices, and the geometry of data in many dimensions.
 
 - 📊 [Slides]({{ '/assets/basic/slides/S3_Slides_Maths_training_Basic_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/basic/exercises/Q_Ex3_Maths_training_DEC_2026.pdf' | relative_url }})
-- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex3_Maths_training_DEC_2026.pdf' | relative_url }}) *(released after the session)*
+- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex3_Maths_training_DEC_2026.pdf' | relative_url }})

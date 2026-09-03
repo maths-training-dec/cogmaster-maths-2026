@@ -6,7 +6,6 @@ nav_order: 1
 
 <div class="brand-banner" markdown="0">
   <img src="{{ '/assets/img/logo_ens_psl_petit_rvb_noir.png' | relative_url }}" alt="École Normale Supérieure - PSL" style="height:80px;">
-  <img src="{{ '/assets/img/logo-dec.png' | relative_url }}" alt="Département d'Études Cognitives" style="height:64px;">
 </div>
 
 # Maths Training Crash Course 2026
@@ -51,7 +50,7 @@ the solutions (posted after each session). See the
 
 | | | |
 |---|---|---|
-| **Ali Shiravand** | Instructor | [ali.shiravand@ens.fr](mailto:ali.shiravand@ens.fr) |
+| **Ali Shiravand** | Instructor | [ali.shiravand@ens.psl.eu](mailto:ali.shiravand@ens.psl.eu) |
 | **Sara Moussaoui** | Instructor | [sara.moussaoui@ens.psl.eu](mailto:sara.moussaoui@ens.psl.eu) |
 | **Prof. Amaury Lambert** | Course supervisor | [amaury.lambert@ens.psl.eu](mailto:amaury.lambert@ens.psl.eu) |
 

@@ -21,4 +21,4 @@ The language of uncertainty: how to describe chance and update beliefs from evid
 
 - 📊 [Slides]({{ '/assets/basic/slides/S1_Slides_Maths_training_Basic_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/basic/exercises/Q_Ex1_Maths_training_DEC_2026.pdf' | relative_url }})
-- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex1_Maths_training_DEC_2026.pdf' | relative_url }}) *(released after the session)*
+- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex1_Maths_training_DEC_2026.pdf' | relative_url }})

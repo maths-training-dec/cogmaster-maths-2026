@@ -23,3 +23,4 @@ and what varies together.
 
 - 📊 [Slides]({{ '/assets/advanced/slides/S2_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/advanced/exercises/Q_Ex2_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
+- ✅ [Solutions]({{ '/assets/advanced/solutions/Sol_Ex2_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})

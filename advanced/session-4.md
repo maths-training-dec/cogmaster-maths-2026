@@ -23,3 +23,4 @@ where the linear algebra pays off a second time.
 
 - 📊 [Slides]({{ '/assets/advanced/slides/S4_Slides_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/advanced/exercises/Q_Ex4_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
+- ✅ [Solutions]({{ '/assets/advanced/solutions/Sol_Ex4_Maths_training_Advanced_DEC_2026.pdf' | relative_url }})
