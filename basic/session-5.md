@@ -24,3 +24,4 @@ differential equation that models learning and forgetting.
 
 - 📊 [Slides]({{ '/assets/basic/slides/S5_Slides_Maths_training_Basic_DEC_2026.pdf' | relative_url }})
 - ✏️ [Exercise sheet]({{ '/assets/basic/exercises/Q_Ex5_Maths_training_DEC_2026.pdf' | relative_url }})
+- ✅ [Solutions]({{ '/assets/basic/solutions/Sol_Ex5_Maths_training_DEC_2026.pdf' | relative_url }})
